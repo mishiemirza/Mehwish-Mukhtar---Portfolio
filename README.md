@@ -1,5 +1,5 @@
 # Mehwish-Mukhtar---Portfolio
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mehwish Mukhtar
 
 ### 📊 Data Analyst | 🤖 Data Scientist | 📈 Machine Learning Enthusiast
 
@@ -20,12 +20,16 @@ I enjoy exploring data, building predictive models, and creating visual stories 
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, SQL  
-**Libraries & ML:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch (optional)  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, Jupyter, Excel, VS Code  
-**Other:** Data Cleaning, Feature Engineering, Dashboarding, Statistical Analysis
+**• Tools & Technologies: **
+Python (Pandas, NumPy, basic ML), SQL (MySQL, PostgreSQL), Power BI, Tableau, Advanced Excel (Power Query), R, 
+Hadoop, Spark, Jupyter Notebook, GitHub, JIRA, Microsoft 365 (Outlook, Teams, SharePoint, OneDrive) 
+**• Processes:** 
+Exploratory Data Analysis (EDA), KPI & Trend Tracking, Data Cleaning & Normalization, Statistical Forecasting, 
+Predictive Modeling, Risk & Compliance Reporting, Workforce, Hypothesis Testing, Regression, Time Series, Agile & 
+Process Optimization 
+**• Soft Skills: **
+Stakeholder Engagement, Communication, Critical Thinking, Problem Solving, Time Management, Attention to Detail, 
+Teamwork in Agile Environments. 
 
 ---
 
@@ -36,9 +40,7 @@ I enjoy exploring data, building predictive models, and creating visual stories 
 | **📈 Predictive Model (Regression/Classification)** | Built a machine learning model to predict XYZ | Python, Scikit-Learn |
 | **📊 Interactive Dashboard** | End-to-end data cleaning + dashboard for business insights | Power BI / Tableau |
 | **🤖 NLP Project** | Text analysis or sentiment classification | Python, NLP libraries |
-| **📦 Data Pipeline** | Automated ETL workflow or data processing | Python, SQL |
 
-> Want me to write better descriptions? Just share your project names!
 
 ---
 
@@ -46,12 +48,12 @@ I enjoy exploring data, building predictive models, and creating visual stories 
 
 You can find my CV here:  
 👉 **[Download My CV](./CV.pdf)**  
-(Place your CV file in the repository as `CV.pdf`)
+
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: **[Your LinkedIn](#)**  
-- 🌐 Portfolio Website (optional): **yourwebsite.com**
+- 📧 Email: **mukhtarmehwish92@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/mehwishmukhtar-data-analyst**  
+
